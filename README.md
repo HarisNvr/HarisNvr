@@ -36,17 +36,17 @@ In addition to programming, I am interested in tabletop and video games, as well
 <div align="center">
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisNvr&theme=prussian" 
-    width="1000"
+    width="700"
     style="height: auto;"
   />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisNvr&theme=prussian" 
-    width="498"
+    width="348"
     style="height: auto;"
   />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisNvr&theme=prussian" 
-    width="498"
+    width="348"
     style="height: auto;"
   />
 </div>
