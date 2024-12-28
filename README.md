@@ -8,11 +8,17 @@ Currently, I am focusing on mastering new techniques in SQL, algorithms, and asy
 
 In addition to programming, I am interested in tabletop and video games, as well as 3D printing with my own SLA printer. In my free time, I maintain and upgrade my PC, and I am a fan of fantasy and D&D.
 
+## Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=61AFEB)](https://t.me/HarisNvrsk)
+
 ## I'm working with:
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
 ![Django REST Framework](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=Django&logoColor=F05032)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=FastAPI&logoColor=009688)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=488FE0)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-000000?style=for-the-badge&logo=Gunicorn&logoColor=499848)
 ![NGINX](https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=NGINX&logoColor=3F8E43)
@@ -22,7 +28,25 @@ In addition to programming, I am interested in tabletop and video games, as well
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=Python&logoColor=FFD43B)
 ![Alembic](https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=Python&logoColor=306998)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-000000?style=for-the-badge&logo=Telegram&logoColor=61AFEB)
+![Aiogram](https://img.shields.io/badge/Aiogram-000000?style=for-the-badge&logo=Telegram&logoColor=2CA5E0)
+![Aiogram-dialog](https://img.shields.io/badge/Aiogram--dialog-000000?style=for-the-badge&logo=Telegram&logoColor=32C8EF)
 
-## Contact Me
+## My stats:
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=61AFEB)](https://t.me/HarisNvrsk)
+<div align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarisNvr&theme=prussian" 
+    width="1000"
+    style="height: auto;"
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarisNvr&theme=prussian" 
+    width="498"
+    style="height: auto;"
+  />
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarisNvr&theme=prussian" 
+    width="498"
+    style="height: auto;"
+  />
+</div>
